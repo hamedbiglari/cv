@@ -1,14 +1,13 @@
 # homepage
 homepage:
   head:
-    title: "Home | Raditian"
+    title: "Home | Flonita"
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
+  title: "Hello, I’m Dr Biglari."
   subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
-  image:
+  description: "I work at <a target='_blank' href='https://flonita.com/'>flonita</a>, a organic coorps supply company in Iran. And I am a CEO. If you got curious where Saffron comes from. Keep cool, stay in touch."  image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -19,17 +18,17 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "https://flonita.com/en/contact/"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.flonita.com"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/cv"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
+      URL: "https://twitter.com/flonita"
 
     - icon: "dribbble"
       URL: "https://dribbble.com/radity"
