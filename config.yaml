@@ -1,9 +1,9 @@
-baseURL: https://raditian-hugo.radity.com/
+baseURL: https://flonita.com/
 languageCode: en-us
 theme: raditian-free-hugo-theme
 params:
   footer:
-    copyright: © Raditian. All rights reserved.
+    copyright: © flonita. All rights reserved.
     radity_logo:
       _2x: img/general/design-and-code-radity@2x.png
       alt: Design & Code - Radity
