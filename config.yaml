@@ -1,6 +1,6 @@
 baseURL: https://flonita.com/
 languageCode: en-us
-theme: raditian-free-hugo-theme
+#theme: raditian-free-hugo-theme
 params:
   footer:
     copyright: © flonita. All rights reserved.
@@ -10,8 +10,8 @@ params:
       x: img/general/design-and-code-radity.png
   googleTagManagerID: GTM-000000
   logo:
-    text1: Andreas
-    text2: Ellure
+    text1: Hamed
+    text2: biglari
   plugins:
     css:
       - URL: css/main.css
