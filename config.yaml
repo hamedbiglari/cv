@@ -1,6 +1,6 @@
 baseURL: https://flonita.com/
 languageCode: en-us
-#theme: raditian-free-hugo-theme
+theme: raditian-free-hugo-theme
 params:
   footer:
     copyright: © flonita. All rights reserved.
